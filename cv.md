@@ -4,10 +4,10 @@
 
 ## Contacts
 
-**Location**: Minsk, Belarus
-**Phone**: +375 29 7761676
-**Email**: andreev1024@gmail.com
-**GitHub**: [andreev1024](https://github.com/andreev1024)
+**Location**: Minsk, Belarus \
+**Phone**: +375 29 7761676 \
+**Email**: andreev1024@gmail.com \
+**GitHub**: [andreev1024](https://github.com/andreev1024) \
 **LinkedIn**: [https://www.linkedin.com/in/andreev1024/](https://www.linkedin.com/in/andreev1024/)
 
 ## Main skills
