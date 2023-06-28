@@ -1,5 +1,7 @@
 # Andrey Zadorozhny
 
+![alt](./me.png)
+
 ## Contacts
 
 **Location**: Minsk, Belarus
